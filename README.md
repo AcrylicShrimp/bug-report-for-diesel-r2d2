@@ -9,3 +9,7 @@ Simply run below command.
 ```
 cargo run
 ```
+
+## note
+
+Please note that you don't need to update the `YOUR_DB_NAME` string in the source code, because the expected error is produced regardless of it.
